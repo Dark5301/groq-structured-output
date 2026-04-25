@@ -105,8 +105,6 @@ Next Step: Build a single-tool agent using Groq's free API that answers question
 ```
 .
 ├── json_output.py      # Main script
-├── .env                # API keys (not committed)
-├── .gitignore
 └── README.md
 ```
 
